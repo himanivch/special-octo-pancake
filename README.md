@@ -1,2 +1,3 @@
 # special-octo-pancake
-This is my frist repo
+This is my first repo.
+This is my first commit
